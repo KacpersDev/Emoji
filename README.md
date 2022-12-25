@@ -26,4 +26,4 @@ Run:
 
 ## OPENING
 
-> Go to browser and enter localhost + port in this case localhost:3000
+> Go to browser and enter localhost: + port in this case localhost:3000
