@@ -17,7 +17,11 @@ Unpack:
 
 > (In Terminal/CMD) git clone LINK
 
-Run:
+## INSTALL DEPENDENCIES
+
+> npm install
+
+## RUN
 
 > node server.js
 
