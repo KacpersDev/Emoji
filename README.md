@@ -13,6 +13,10 @@ Clone Repository > Code:
 
 ![775af1bed3b3fa705a100456c80b018a](https://user-images.githubusercontent.com/50886151/209480154-903cc116-652a-417a-b0d5-24c1f5e6c1d9.png)
 
+Unpack:
+
+> (In Terminal/CMD) git clone LINK
+
 Run:
 
 > node server.js
