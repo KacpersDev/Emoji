@@ -19,3 +19,7 @@ Run:
 
 ### You should receive message: 
 > application is listening to port 3000
+
+## OPENING
+
+> Go to browser and enter localhost + port in this case localhost:3000
